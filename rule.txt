@@ -1,0 +1,3 @@
+{name}|duy|linh|le|son
+{sex}|anh|chi
+{game}|Pupg
